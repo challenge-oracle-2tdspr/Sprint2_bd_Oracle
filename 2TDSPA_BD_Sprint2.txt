@@ -1,0 +1,12 @@
+ Sprint 2 Oracle - BD
+
+Nome: Rodrigo Paes Morales RM:560209 Turma: 2TDSPA  
+
+Nome: Ruan Nunes Gaspar RM:559567 Turma: 2TDSPA  
+
+Nome: Fernando Nachtigall Tessmann RM:559617 Turma: 2TDSPR 
+
+
+Link para o vídeo executando procedures dentro de um projeto java:
+
+https://youtu.be/kMjvB_JTQaQ
